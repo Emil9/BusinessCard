@@ -1,0 +1,21 @@
+C:\Programowanie\Visual Studio 2017\Projekty\Zad.9.4\Zad.9.4\bin\Debug\Zad.9.4.exe.config
+C:\Programowanie\Visual Studio 2017\Projekty\Zad.9.4\Zad.9.4\bin\Debug\Zad.9.4.exe
+C:\Programowanie\Visual Studio 2017\Projekty\Zad.9.4\Zad.9.4\bin\Debug\Zad.9.4.pdb
+C:\Programowanie\Visual Studio 2017\Projekty\Zad.9.4\Zad.9.4\obj\Debug\Zad.9.4.csprojResolveAssemblyReference.cache
+C:\Programowanie\Visual Studio 2017\Projekty\Zad.9.4\Zad.9.4\obj\Debug\Zad.9.4.csproj.CoreCompileInputs.cache
+C:\Programowanie\Visual Studio 2017\Projekty\Zad.9.4\Zad.9.4\obj\Debug\Zad.9.4.exe
+C:\Programowanie\Visual Studio 2017\Projekty\Zad.9.4\Zad.9.4\obj\Debug\Zad.9.4.pdb
+C:\Programowanie\Visual Studio 2017\Projekty\I rok\Zad.9.4\Zad.9.4\bin\Debug\Zad.9.4.exe.config
+C:\Programowanie\Visual Studio 2017\Projekty\I rok\Zad.9.4\Zad.9.4\bin\Debug\Zad.9.4.exe
+C:\Programowanie\Visual Studio 2017\Projekty\I rok\Zad.9.4\Zad.9.4\bin\Debug\Zad.9.4.pdb
+C:\Programowanie\Visual Studio 2017\Projekty\I rok\Zad.9.4\Zad.9.4\obj\Debug\Zad.9.4.csprojResolveAssemblyReference.cache
+C:\Programowanie\Visual Studio 2017\Projekty\I rok\Zad.9.4\Zad.9.4\obj\Debug\Zad.9.4.csproj.CoreCompileInputs.cache
+C:\Programowanie\Visual Studio 2017\Projekty\I rok\Zad.9.4\Zad.9.4\obj\Debug\Zad.9.4.exe
+C:\Programowanie\Visual Studio 2017\Projekty\I rok\Zad.9.4\Zad.9.4\obj\Debug\Zad.9.4.pdb
+C:\Programowanie\Visual Studio 2017\Projekty\I rok\Wizytówka\Zad.9.4\bin\Debug\Zad.9.4.exe.config
+C:\Programowanie\Visual Studio 2017\Projekty\I rok\Wizytówka\Zad.9.4\bin\Debug\Zad.9.4.exe
+C:\Programowanie\Visual Studio 2017\Projekty\I rok\Wizytówka\Zad.9.4\bin\Debug\Zad.9.4.pdb
+C:\Programowanie\Visual Studio 2017\Projekty\I rok\Wizytówka\Zad.9.4\obj\Debug\Zad.9.4.csprojResolveAssemblyReference.cache
+C:\Programowanie\Visual Studio 2017\Projekty\I rok\Wizytówka\Zad.9.4\obj\Debug\Zad.9.4.csproj.CoreCompileInputs.cache
+C:\Programowanie\Visual Studio 2017\Projekty\I rok\Wizytówka\Zad.9.4\obj\Debug\Zad.9.4.exe
+C:\Programowanie\Visual Studio 2017\Projekty\I rok\Wizytówka\Zad.9.4\obj\Debug\Zad.9.4.pdb
