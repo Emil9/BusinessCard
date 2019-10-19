@@ -7,4 +7,4 @@ How?:
 
 The program will draw a business card with your personal data.
 
-![Example screenshot](./img/1.png)
+![Example screenshot](./Wizytówka/img/1.png)
